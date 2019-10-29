@@ -1,0 +1,31 @@
+---
+title: "DDI"
+author: "jixing"
+date: "2019-10-29"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## What is DDI?
+
+> When one drug causes changes in the pharmacological effects or clinical responses of another drug co-administered for co-morbidities, this phenomenon is termed a drug–drug interaction (DDI). 
+
+## DDI: positive and nefative
+
+In the majority of cases a DDI is an undesirable and yet avoidable event. 
+
+- Positive uses of DDIs do exist, for example so called ‘boosters’ which enhance the pharmacokinetics of drugs that are extensively metabolized by P450s [1–3], also prevention of peripheral metabolism of DOPAdecarboxylase inhibitors by co-administration of L-DOPA [4]. 
+
+
+- Several groups have reported on estimates that DDI accounts for more than 30% of all drug adverse reactions [8–10]. Furthermore, a recent study on drugs withdrawn from the market showed that DDIs are one of the leading contributing causes to drug failure [11]. Along with an increasing frequency of polypharmacy we are currently experiencing [12], these factors make DDIs a developing risk to public health. Even the increasing use of therapeutic proteins (TP) requires assessment of TP-DDI [13]. 
+
+
+## Two types of DDI: PK and PD
+
+There are mainly two types of DDI of concern namely, pharmacokinetic (PK) or pharmacodynamics (PD). 
+
+- PD-based DDI occurs when the pharmacological effects of a drug are altered (enhanced or diminished) by the other drug due to competition at its therapeutic targets or interfering with other cellular factors, such as related signaling pathways. 
+- PK-based DDI refers to drug interactions that inﬂuence the disposition of another drug in the body, e.g. its absorption, distribution, metabolism, and elimination (ADME), causing an altered plasma concentration of the ﬁrst drug that may lead to detrimental consequences (such as toxicity). PK-based DDI is the major focus in this article.
+
+

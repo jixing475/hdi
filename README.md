@@ -1,4 +1,4 @@
-# hdi
+# Herb-Drug interaction
 
 A [workflowr][] project.
 
